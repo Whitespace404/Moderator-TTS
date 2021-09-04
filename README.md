@@ -10,6 +10,8 @@ pawngrubber (twitch.tv/pawngrubber)
 2) Modify line 7 with the username and Oauth key (you can
 get the oath key from https://twitchapps.com/tmi)
 
+Type ```!tts <message>``` to use
+
 Twitch observer documentation: 
 
 On Github: https://github.com/joshuaskelly/twitch-observer
