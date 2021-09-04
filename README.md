@@ -11,6 +11,6 @@ pawngrubber (twitch.tv/pawngrubber)
 get the oath key from https://twitchapps.com/tmi)
 
 Twitch observer documentation: 
-On Github: https://github.com/joshuaskelly/twitch-observer
-ON PyPi: https://pypi.org/project/twitchobserver/
+On Github: https://github.com/joshuaskelly/twitch-observer \n
+ON PyPi: https://pypi.org/project/twitchobserver/ \n
 On readthedocs: https://twitch-observer.readthedocs.io/en/stable/
