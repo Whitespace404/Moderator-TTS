@@ -15,7 +15,6 @@ with Observer("username", "Oauth") as observer:
             for event in observer.get_events():
                 if event.type == 'TWITCHCHATMESSAGE':
                     message = event.message
-                    print(message)
                     
                     # TODO get list of mods instead of hard-coding mod usernames
                     mods = ["thefuxia", "smarterchess", "streamlabs", "grubberbot", "lalizig", "paradajzcity",
