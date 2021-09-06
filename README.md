@@ -7,7 +7,7 @@ pawngrubber (twitch.tv/pawngrubber)
 1) Install twitch-observer first:
 `pip install twitch-observer`
 
-2) Modify line 7 with the username and Oauth key (you can
+2) Modify line 8 with the username and Oauth key (you can
 get the oath key from https://twitchapps.com/tmi)
 
 Type ```!tts <message>``` to use
